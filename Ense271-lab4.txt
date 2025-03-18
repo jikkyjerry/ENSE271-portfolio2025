@@ -1,0 +1,6 @@
+This is the text file for Enselab4
+I recreated "The Canadian Brewhouse" website on figma
+I made the hambuger menu connect the pages together
+I put a carousel on the home pagesI use lightboxes for "What's happening" pages
+I did an auto-fade on "Reservation" page
+I did a draggable menu on food menu
