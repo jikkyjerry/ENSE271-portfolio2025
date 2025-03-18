@@ -4,3 +4,5 @@ I made the hambuger menu connect the pages together
 I put a carousel on the home pagesI use lightboxes for "What's happening" pages
 I did an auto-fade on "Reservation" page
 I did a draggable menu on food menu
+
+Link to muy figma file: https://www.figma.com/design/1dZMQW7mWTWZ1yEi3GkdE5/Ense271-Lab4?node-id=0-1&p=f&t=BhmjlEEqzAQGCLqs-0
