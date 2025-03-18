@@ -1,0 +1,16 @@
+Grocery Delivery App
+This app allows both customers and Stores to create account, its is design in  a way that, we can can only deliver groceries purchased from registered stores for a more secure transaction.
+
+Membership: 
+This is to make the application more flexible for users.
+the idea of monthly, yearly plans with a low cost.
+
+Tracking:
+ The idea of tracking is not just to make shipment, but also to generate tracking number, get driver information, navigate driver current location and also text or call the driver.
+the idea of tracking is to help users have  more control on their deliveries. which allows them to talk to the driver and do more o n the application.
+
+Address:
+ the App allows you to save two addresses(home and office) so you don't have to be imputting your address everytime time you want to make shipment.
+There is also an option to input a different address.
+
+Additional card colours is the extra feature i tried.
